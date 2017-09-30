@@ -1,1 +1,1 @@
-web: npm run builded
+web: npm run production
